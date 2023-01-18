@@ -32,6 +32,16 @@ Finish time: 854
 
 Actual time needed to complete: 31min
 
+**Name of feature:** 2. Weather (placeholder): As a user of City Explorer, I want to see weather info for the city I searched, so that I know how to pack for an upcoming trip.
+
+Estimate of time needed to complete: 45
+
+Start time: 910
+
+Finish time: 1007
+
+Actual time needed to complete: 57min
+
 <!-- **Name of feature:** 
 
 Estimate of time needed to complete: 
