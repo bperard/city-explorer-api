@@ -22,6 +22,8 @@ In this lab assignment, you will begin building your own custom API server, whic
 
 ## Time Estimates
 
+### Lab 7
+
 **Name of feature:** 1. Set up your server repository.
 
 Estimate of time needed to complete: 30min
@@ -41,6 +43,24 @@ Start time: 910
 Finish time: 1007
 
 Actual time needed to complete: 57min
+
+**Name of feature:** 3. Errors (revisited): As a user, I want clear messages if something goes wrong so I know if I need to make any changes or try again in a different manner.
+
+Feature finished in previous step.
+
+Actual time needed to complete: 0
+
+### Lab 8
+
+**Name of feature:** 1. Weather (live): As a user of City Explorer, I want to see weather info for the city I searched, so that I know how to pack for an upcoming trip.
+
+Estimate of time needed to complete: 45min
+
+Start time: 936
+
+Finish time: 955
+
+Actual time needed to complete: 19min
 
 <!-- **Name of feature:** 
 
